@@ -1,0 +1,446 @@
+{
+    "keys": [
+        "nyx-professional-makeup/lip-iv-dlugotrwaly-blyszczyk-do-ust-o-dzialaniu-nawilzajacym/"
+    ],
+    "type": 0,
+    "language": "pl-PL",
+    "campaign": "Lip IV",
+    "rpc": "NYX07615",
+    "dateOnSaleFrom": null,
+    "owner": "MatusC",
+    "contents": [
+        {
+            "name": "Lip IV",
+            "key": "",
+            "isApproved": false,
+            "rich": {
+                "components": [
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV.jpg",
+                                "element": "img",
+                                "alt": "Podwójny efekt w jednym błyszczyku",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV-mobile.jpg",
+                                "element": "img",
+                                "alt": "Podwójny efekt w jednym błyszczyku",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "ODKRYJ 16 NAPIGMENTOWANYCH ODCIENI",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginBottom": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "10px",
+                            "marginBottom": "15px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-02.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-02-mobile.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-03.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-03-mobile.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "imageCarousel",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "slides",
+                                "value": "Carousel-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "slides",
+                                "value": "Carousel-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                            
+                        ],
+                        "properties": {
+                            "marginBottom": "0px",
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "imageCarousel",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "slides",
+                                "value": "Carousel-A-mobile.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "slides",
+                                "value": "Carousel-B-mobile.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                            
+                        ],
+                        "properties": {
+                            "margin": "0px auto",
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v2",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "Technologia water-breaking",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "26px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "bold",
+                                    "color": "#111111",
+                                    "textTransform": "uppercase",
+                                    "marginBottom": "40px",
+                                    "marginLeft": "20px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "dla uczucia lekkości i nawilżenia! Z KOMPLEKSEM WITAMINOWYM: magnez, witamina B12, woda kokosowa",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "lineHeight": "2",
+                                    "marginLeft": "20px"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD-05.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "20px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "stwórz niepowtarzalny look",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginBottom": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "15px",
+                            "marginBottom": "15px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Wonder stick",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "textTransform": "uppercase",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "Dwustronny sztyft - jedna strona zapewni Ci doskonałe rozświetlenie, a\u00a0druga pomoże przy konturowaniu.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "textAlign": "center",
+                                    "marginTop": "-20px"
+                                }
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-06-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "The Brow Glue",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "textTransform": "uppercase",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "Bestsellerowy klej do brwi, który daje efekt jak po laminacji! Przeznaczony jest do stylizacji, nadawania kształtu i\u00a0utrwalania włosków.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "textAlign": "center",
+                                    "marginTop": "-20px"
+                                }
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-06-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "Vinyl Makeup Setting Spray Matte",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "textTransform": "uppercase",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "Lekki i łatwy w stosowaniu spray utrwalający makijaż. Wystarczy szybka aplikacja, a Twój makeup będzie wyglądał perfekcyjnie od rana do wieczora.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "400",
+                                    "textAlign": "center",
+                                    "marginTop": "-20px"
+                                }
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-06-C.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    }
+                    
+                ]
+            }
+        }
+    ]
+}
